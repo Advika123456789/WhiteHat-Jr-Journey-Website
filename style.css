@@ -1,0 +1,33 @@
+#app{
+width: 100%;
+    height: 800px;
+    background: rgb(175,222,255);
+background: radial-gradient(circle, rgba(175,222,255,1) 5%, rgba(115,255,143,1) 36%, rgba(215,255,221,1) 65%, rgba(255,191,245,1) 96%);
+}
+.line{
+    height: 6px;
+    background-color: white;
+    width: 70px;
+    margin: 8px auto;
+    
+}
+#game{
+   width: 100%;
+    height: 800px;
+    background: rgb(175,222,255);
+background: radial-gradient(circle, rgba(175,222,255,1) 5%, rgba(115,255,143,1) 36%, rgba(215,255,221,1) 65%, rgba(255,191,245,1) 96%);
+}
+img:hover{
+ transform: scale(0.9) ;
+    
+}
+#chatbots{
+  width: 100%;
+    height: 800px;
+   background: rgb(175,222,255);
+background: radial-gradient(circle, rgba(175,222,255,1) 5%, rgba(115,255,143,1) 36%, rgba(215,255,221,1) 65%, rgba(255,191,245,1) 96%);  
+}
+body{
+    text-align: center;
+    font-size:30px;
+}
